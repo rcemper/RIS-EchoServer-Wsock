@@ -1,5 +1,5 @@
 /// Enhanced test Client from Caché SAMPLES
-Class WSS.csp Extends %CSP.Page
+Class rcc.WSScsp Extends %CSP.Page
 {
 
 ClassMethod OnPage() As %Status
@@ -10,7 +10,7 @@ ClassMethod OnPage() As %Status
 <script language="JavaScript" type="text/javascript">
 var ws;
 var line
-var wsserver = "/csp/##($namespace)##/WS.EchoServer.cls"
+var wsserver = "/csp/##($namespace)##/rcc.EchoServer.cls"
 
 if ((typeof(WebSocket) == 'undefined') && (typeof(MozWebSocket) != 'undefined')) {
 	WebSocket = MozWebSocket;
