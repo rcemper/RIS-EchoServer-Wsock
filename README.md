@@ -14,3 +14,8 @@ This contains 2 classes:
 The server is essential for the 'native' WebSocket Client Demo
 
 [Article in DC](https://community.intersystems.com/post/websocket-echo-server-iris)
+
+[Demo Server SMP](https://echoserver-wsock-iris.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
+[Demo Server WebTerminal](https://echoserver-wsock-iris.demo.community.intersystems.com/terminal/)    
+        
+**Code Quality** in SCREENSHOTS 
