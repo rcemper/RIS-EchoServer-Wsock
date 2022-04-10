@@ -10,6 +10,7 @@ This contains 2 classes:
 - rcc.EchoServer.cls   
 - rcc.WSScsp.cls for testing. Called from Browser by   
    (http://localhost:52773/csp/irisapp/rcc.WSScsp.cls)
+   [DemoServer Testing](https://echoserver-wsock-iris.demo.community.intersystems.com/csp/irisapp/rcc.WSScsp.cls)   
 
 The server is essential for the 'native' WebSocket Client Demo
 
