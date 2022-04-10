@@ -1,6 +1,6 @@
 #!/bin/bash
 
-iris start $ISC_PACKAGE_INSTANCENAME quietly
+iris start $ISC_PACKAGE_INSTANCENAME quietly 
  
 cat << EOF | iris session $ISC_PACKAGE_INSTANCENAME -U %SYS
 do ##class(%SYSTEM.Process).CurrentDirectory("$PWD")
