@@ -19,5 +19,5 @@ The server is essential for the 'native' WebSocket Client Demo
 [Demo Server SMP](https://echoserver-wsock-iris.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
 [Demo Server WebTerminal](https://echoserver-wsock-iris.demo.community.intersystems.com/terminal/)    
         
-**Code Quality**
+**Code Quality**     
 <img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/905/screenshots/a8txkky3tzemiqaawlvi8au8ii.jpg">
