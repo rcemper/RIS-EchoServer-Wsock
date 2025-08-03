@@ -3,7 +3,7 @@
   <Document name="echoserver-wsock-iris.ZPM">
     <Module>
       <Name>echoserver-wsock-iris</Name>
-      <Version>1.1.1</Version>
+      <Version>1.1.4</Version>
       <Description>WebSocket Echo Server for IRIS as known from Cache,Ensemble</Description>
       <Keywords>CSP, WebSocket, COS</Keywords>
       <Packaging>module</Packaging>
